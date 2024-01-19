@@ -13,9 +13,9 @@ The Deep Directed Accumulator (DeDA) establishes a complementary relationship wi
 
 ## Papers
 
-**[DAGrid: Directed Accumulator Grid](https://arxiv.org/abs/2306.02589)** <br>
-[Hang Zhang](https://tinymilky.com), Renjiu Hu, Xiang Chen, Rongguang Wang, Jinwei Zhang, and Jiahao . <br>
-arXiv 2023. 
+**[Slicer Networks](https://arxiv.org/abs/2306.02589)** <br>
+[Hang Zhang](https://tinymilky.com), Renjiu Hu, [Xiang Chen](https://grzy.hnu.edu.cn/site/index/chenxiang), Rongguang Wang,  [Dongdong Liu](https://ddliu365.github.io/), and [Gaolei Li](https://icst.sjtu.edu.cn/DirectoryDetail.aspx?id=28). <br>
+arXiv 2023.
 
 **[DeDA: Deep Directed Accumulator](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_72)**  <br>
 [Hang Zhang](https://tinymilky.com), Rongguang Wang, Renjiu Hu, Jinwei Zhang, and Jiahao Li.  <br>
@@ -30,13 +30,13 @@ MICCAI 2023.
 ## Citation
 If our work has influenced or contributed to your research, please kindly acknowledge it by citing:
 ```
-@misc{zhang2023dagrid,
-      title={DAGrid: Directed Accumulator Grid}, 
-      author={Hang Zhang and Renjiu Hu and Xiang Chen and Rongguang Wang and Jinwei Zhang and Jiahao Li},
-      year={2023},
-      eprint={2306.02589},
+@misc{zhang2024slicer,
+      title={Slicer Networks}, 
+      author={Hang Zhang and Xiang Chen and Rongguang Wang and Renjiu Hu and Dongdong Liu and Gaolei Li},
+      year={2024},
+      eprint={2401.09833},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={eess.IV}
 }
 
 @InProceedings{10.1007/978-3-031-43895-0_72,
